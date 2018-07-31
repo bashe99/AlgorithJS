@@ -1,0 +1,27 @@
+# Environment
+.DS_Store
+.idea
+.vscode/.react/
+.vscode/codepush.json
+
+# NPM / Yarn
+node_modules/
+npm-debug.log
+npm-debug.log.*
+yarn-error.log
+
+# Jest
+jest_0/
+jest/*
+!jest/setup.js
+!jest/fileMock.js
+coverage/
+
+# Workflow
+assets/
+
+# Others
+logs/*
+!.gitkeep
+bin/
+obj/
