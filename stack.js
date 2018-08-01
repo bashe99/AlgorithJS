@@ -18,7 +18,6 @@ class Stack {
     }
 }
 
-// mocha.setup("bdd");
 const { assert } = chai;
 
 describe("Stacks", () => {
